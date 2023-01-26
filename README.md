@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat Pathak</h1>
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatpathak1998&label=Profile%20views&color=0e75b6&style=flat" alt="bharatpathak1998" /> </p>
 
 🌱 I’m currently learning **Spring Boot & Angular**
